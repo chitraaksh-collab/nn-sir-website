@@ -1,6 +1,6 @@
 import { ProgramInfo, MathCategory } from '../types';
 
-export const TEST_SERIES_PORTAL_URL = "https://nn-sir-cbt.onrender.com/";
+export const TEST_SERIES_PORTAL_URL = "https://nnsircbt.onrender.com/";
 
 export const FACULTY_DATA = {
   name: "Mr. Niranjan Naik",
